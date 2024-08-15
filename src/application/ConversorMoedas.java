@@ -3,9 +3,9 @@ package application;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Program {
+public class ConversorMoedas {
 
-	public static final double DOLLAR = 5.16;
+	public static final double DOLLAR = 5.47;
 
 	public static void main(String[] args) {
 
