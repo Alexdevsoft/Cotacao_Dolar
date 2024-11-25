@@ -1,3 +1,3 @@
-# Cotação do Dolar
+# Projeto Cotação do Dolar
 
 ## Convertendo o Dolar em Real usando comando de entrada.
